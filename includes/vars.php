@@ -1,6 +1,8 @@
 <?php
-require 'function.php';
-
+/* This file contains defined variables
+It is not to be opened directly
+in a browser
+*/
 $rt= 'Signup';
 $h = <<< Eopagea
 <html lang="en">
